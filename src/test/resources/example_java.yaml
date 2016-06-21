@@ -1,0 +1,3 @@
+classpath: [ /home/vagrant/exj ]
+class: Test
+max_heap: 256m
